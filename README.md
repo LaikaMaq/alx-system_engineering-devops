@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+Scripts that contain basic shell commands
